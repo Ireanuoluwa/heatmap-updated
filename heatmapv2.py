@@ -24,7 +24,7 @@ manual_name_map = {
     "Princess Esther Etang": "Esther Etang",
     "~MJ": "Reme",
     "El👑": "El",
-    "M&J Wears": "Baridule"
+    "~ M&J Wears": "Baridule"
     
 }
 
